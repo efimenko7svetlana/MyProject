@@ -17,7 +17,7 @@ namespace WindowsFormsApp5
         public float Speed; // скорость перемещения
 
         public float Life; // запас здоровья частицы
-
+       
         // добавили генератор случайных чисел
         public static Random rand = new Random();
 
